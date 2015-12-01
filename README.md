@@ -6,6 +6,8 @@ Project Members: Anirudh Krishnan, Gautham Prasad
 
 Title: Price Comparison Website
 
+*** This was Done as a part of the Internet programming lab , for B.S Abdur Rahman university ***
+
 
 Instructions to run project:
 
